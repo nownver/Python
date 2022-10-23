@@ -9,9 +9,14 @@ def LCS(s1, s2):
                     max = s1[i:j]
     print(max)
 
+LCS("philosophically","zoophilous")
 LCS("multiverse", "metaverse")
 LCS("scada", "kmitl")
 LCS("interactive", "inaction")
+LCS("ingenious","intelligent")
+LCS("pen","pen pineapple apple pen")
+LCS("abcdef","cde")
+
 
 # s1 = input("s1: ")
 # s2 = input("s2: ")
