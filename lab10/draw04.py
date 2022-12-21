@@ -47,6 +47,3 @@ t.ht()
 t.done() 
 
 histogram([1,2,3,4,2,3])
-
-for i in range(2):
-    print("1")
