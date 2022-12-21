@@ -262,7 +262,7 @@ class CellGrid(tkinter.Canvas):
                 cell.make_empty()
                 cell.start = False
                 cell.end = False
-                cell.h = 0;
+                cell.h = 0
                 cell.g = float('inf')
                 cell.f = float('inf')
                 cell.d = float('inf')
