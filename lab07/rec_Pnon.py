@@ -50,7 +50,7 @@ class Rectangle:
 
 # r2 = Rectangle(0, 40, 100, 100)
 # r1 = Rectangle(20, 150, 180, 120)
-r1 = Rectangle(1,1,-20,30)
+r1 = Rectangle(1,1,20,30)
 r1.draw()
 r2 = Rectangle(-3,4,40,50)
 r2.draw()
